@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/servicedesk-dashboard/static/css/main.e525883b.css",
+    "main.js": "/servicedesk-dashboard/static/js/main.18dca108.js",
+    "static/js/453.0888efcf.chunk.js": "/servicedesk-dashboard/static/js/453.0888efcf.chunk.js",
+    "index.html": "/servicedesk-dashboard/index.html",
+    "main.e525883b.css.map": "/servicedesk-dashboard/static/css/main.e525883b.css.map",
+    "main.18dca108.js.map": "/servicedesk-dashboard/static/js/main.18dca108.js.map",
+    "453.0888efcf.chunk.js.map": "/servicedesk-dashboard/static/js/453.0888efcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e525883b.css",
+    "static/js/main.18dca108.js"
+  ]
+}
