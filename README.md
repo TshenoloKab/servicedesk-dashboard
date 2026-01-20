@@ -3,6 +3,8 @@
 A role-based Service Desk Dashboard built with **React** and **Tailwind CSS**.  
 Project I built to demonstrate authentication logic, conditional rendering, and clean dashboard UI design.
 
+Live Demo: [servicedesk-dashboard](https://tshenolokab.github.io/servicedesk-dashboard/)
+
 ---
 
 ## 🚀 Features
